@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920 445.2" style="enable-background:new 0 0 1920 445.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#D0D2D3;}
+	.st1{fill:#F1F1F2;}
+	.st2{fill:#E6E7E8;}
+	.st3{fill:none;stroke:#2491D0;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
+	.st4{fill:none;stroke:#343537;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;}
+	.st5{fill:none;}
+	.st6{fill:#F2F2F2;}
+	.st7{font-family:'HelveticaNeue-Light';}
+	.st8{font-size:125px;}
+	.st9{letter-spacing:15;}
+</style>
+<g>
+	<g>
+		<polygon class="st0" points="329.4,49.1 329.4,49.8 329.6,49.6 329.7,49.6 329.7,175.6 329.4,176 329.4,176.2 456.5,176.2 
+			456.5,49.1 		"/>
+		<polygon class="st1" points="244.9,138.7 118.8,138.7 118.8,264.9 244.9,264.9 244.9,264.2 244.9,139.5 		"/>
+		<path class="st2" d="M329.7,49.6L329.7,49.6l-0.3,0.2l-84.3,89.5l0-0.1c0,0.1-0.1,0.2-0.1,0.2v124.8l84.5-88.3l0.3-0.3V49.6z"/>
+		<rect x="329.8" y="182.3" class="st0" width="126.2" height="126.2"/>
+		<polygon class="st1" points="244.8,271.5 118.7,271.5 118.7,397.6 244.8,397.6 244.8,397 244.8,272.2 		"/>
+		<path class="st2" d="M245,272.1L245,272.1c-0.1,0-0.1,0.1-0.1,0.1V397l84.8-88.6V182.3h-0.1L245,272.1z"/>
+		<line class="st3" x1="67.1" y1="49.6" x2="67.1" y2="49.6"/>
+		<polygon class="st0" points="193.5,51.6 193.5,47.6 67.1,47.6 67.1,49.6 67.1,51.6 		"/>
+		<line class="st4" x1="127.4" y1="127.2" x2="127.4" y2="127.2"/>
+		<line class="st4" x1="192.2" y1="59" x2="192.2" y2="59"/>
+		<polygon class="st2" points="192.9,59.7 192.2,59 191.5,58.3 126.6,126.5 127.4,127.2 128.1,127.9 		"/>
+	</g>
+</g>
+<rect x="533.5" y="124" class="st5" width="1557.2" height="116.6"/>
+<text transform="matrix(1 0 0 1 533.4556 213.2783)" class="st6 st7 st8 st9">TT ARCHITECTURE</text>
+</svg>
