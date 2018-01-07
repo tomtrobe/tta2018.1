@@ -140,3 +140,10 @@ $(document).ready(function() {
   });
 
 })(jQuery); // End of use strict
+
+function selectImage() {
+                  // The function returns the product of p1 and p2
+	var fs = require('fs');
+	var files = fs.readdirSync('/img/tta/homePage/');
+	console.log('Nothing to see here...');
+}
