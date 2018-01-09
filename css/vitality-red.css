@@ -436,7 +436,7 @@ header.video {
 .portfolio-grid .mix {
   float: left;
   overflow: hidden;
-  width: 48%;
+	width: 48%;
   margin: 1%; }
   .portfolio-grid .mix .portfolio-wrapper {
     position: relative !important;
